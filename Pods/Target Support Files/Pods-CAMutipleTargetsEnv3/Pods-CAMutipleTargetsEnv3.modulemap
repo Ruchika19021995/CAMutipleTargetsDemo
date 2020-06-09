@@ -1,0 +1,6 @@
+framework module Pods_CAMutipleTargetsEnv3 {
+  umbrella header "Pods-CAMutipleTargetsEnv3-umbrella.h"
+
+  export *
+  module * { export * }
+}
