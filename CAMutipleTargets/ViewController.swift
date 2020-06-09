@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         Crashlytics.crashlytics()
         super.viewDidLoad()
+        
+        print("123")
         // Do any additional setup after loading the view.
     }
 
